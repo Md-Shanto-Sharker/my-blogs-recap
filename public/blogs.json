@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cover": "https://reactjs.org/logo-og.png",
+    "title": "Learn JavaScript in 30 Days",
+    "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
+    "author": "John Doe",
+    "posted_date": "2025-04-20",
+    "reading_time": 5,
+    "hashtags": ["#JavaScript", "#WebDevelopment", "#Beginner"]
+  },
+  {
+    "id": 2,
+    "cover": "https://images.unsplash.com/photo-1505685296765-3a2736de412f",
+    "title": "Mastering HTML Basics",
+    "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
+    "author": "Jane Smith",
+    "posted_date": "2025-04-18",
+    "reading_time": 4,
+    "hashtags": ["#HTML", "#Frontend", "#WebDesign"]
+  },
+  {
+    "id": 3,
+    "cover": "https://images.unsplash.com/photo-1549924231-f129b911e442",
+    "title": "CSS Tricks You Should Know",
+    "author_img": "https://randomuser.me/api/portraits/men/65.jpg",
+    "author": "Alex Johnson",
+    "posted_date": "2025-04-15",
+    "reading_time": 6,
+    "hashtags": ["#CSS", "#ResponsiveDesign", "#Tips"]
+  },
+  {
+    "id": 4,
+    "cover": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61",
+    "title": "Getting Started with React",
+    "author_img": "https://randomuser.me/api/portraits/women/68.jpg",
+    "author": "Emily Clark",
+    "posted_date": "2025-04-10",
+    "reading_time": 7,
+    "hashtags": ["#React", "#JavaScript", "#FrontendDev"]
+  }
+]
